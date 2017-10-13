@@ -1,7 +1,5 @@
-
 #!/bin/sh
 #
-# Put this file at /usr/local/bin/ and make it executable
 # This shell script passes all its arguments to the binary inside the
 # MacVim.app application bundle.  If you make links to this script as view,
 # gvim, etc., then it will peek at the name used to call it and set options
