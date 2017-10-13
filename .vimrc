@@ -5,6 +5,9 @@ set number
 set tabstop=4
 set encoding=utf-8
 
+if $TMUX == ''
+    set clipboard+=unnamed
+endif
 
 " Enable folding
 set foldmethod=indent
