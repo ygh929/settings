@@ -1,3 +1,6 @@
+" use Vundle to install the plugins.
+" https://github.com/VundleVim/Vundle.vim
+
 filetype off                  " required
 set nocompatible              " required
 syntax on
